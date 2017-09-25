@@ -18,7 +18,7 @@ Texto en **negrita** y __este también__
 
 Texto en *cursiva* y _este también_
 
-Texto en***negrita y cursiva***
+Texto en ***negrita y cursiva***
 
 
 Texto con `ancho fijo`.
